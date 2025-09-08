@@ -1,5 +1,5 @@
 ## 1ª Unidade ADS
-Coding: Algoritmo e Estrutura de Dados - Professora Tereza Oliveira
+Coding: Algoritmo e Estrutura de Dados - Professora [Tereza Oliveira](https://github.com/terezasenac)
 
 https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
 
