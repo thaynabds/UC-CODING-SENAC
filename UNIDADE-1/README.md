@@ -1,4 +1,12 @@
 1ª Unidade ADS
+Coding: Algoritmo e Estrutura de Dados - Professora Tereza Oliveira
+
+https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+
+Gerador de readme https://readme.so/pt
+https://github.com/Duduxs/awesome-readme-templates
+https://github.com/Duduxs/Awesome-README-Templates/blob/main/Profile-README/duduxs-visual.md?plain=1 
+https://github.com/thaynabds/thaynabds/blob/main/README.md
 
 ## Linha do tempo - Futuro da Computação
 Está pesquisa foi realizada para a unidade currícular de coding 1, Com a nossa Profinha de Coding Tereza Oliveira, Onde nos utilizamos da plataforma Miro para fazer uma [Linha do Tempo da História da IA](https://miro.com/app/board/uXjVJQUPz3Y=/)! a área de pesquisa escolhida foi IA (inteligência Artificial), onde fizemos uma linha de tempo com toda da IA até 2025 (entregue 01/09/2025). 
