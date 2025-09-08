@@ -16,6 +16,6 @@ Está pesquisa foi realizada para a unidade currícular de coding 1, Com a nossa
 Fazer está linha do tempo foi um processo muito enriquecedor, onde aprendemos e aprofundamos nosso conhecimento sobre Ai, além de aprendermos a utilizar a Plataforma Miro, que é excelente para fazer apresentações e projetos em grupo!
 
 - Linguagens de alto nível: São linguagens usadas é uma linguagem que tem uma sintaxe e estrutura mais próximas da linguagem humana, sendo mais fácil de ler e escrever para programadores. Ex.:Java; C; C#; C++; JavaScript; Python;
-- Linguagens de Baixo Nível: São as linguagens de máquina, As linguagens de baixo nível são as mais próximas do hardware do computador; 
-Linguagem de máquina: é a linguagem mais básica que um computador pode entender. Ela é composta por sequências de números binários que representam instruções de hardware.
-Linguagem de montagem: é uma linguagem que é mais fácil de entender do que a linguagem de máquina. Ela usa mnemônicos, que são palavras ou abreviações para as instruções de hardware. Ex.:Assembly; COBOL; Pascal;
+- Linguagens de Baixo Nível: São as linguagens de máquina, As linguagens de baixo nível são as mais próximas do hardware do computador;
+1. Linguagem de máquina: é a linguagem mais básica que um computador pode entender. Ela é composta por sequências de números binários que representam instruções de hardware.
+2. Linguagem de montagem: é uma linguagem que é mais fácil de entender do que a linguagem de máquina. Ela usa mnemônicos, que são palavras ou abreviações para as instruções de hardware. Ex.:Assembly; COBOL; Pascal;
