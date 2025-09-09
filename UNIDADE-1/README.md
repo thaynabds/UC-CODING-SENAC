@@ -22,7 +22,7 @@ Fazer está linha do tempo foi um processo muito enriquecedor, onde aprendemos e
 
 Coloquei em uma IA (Usei DeepSeek) "Crie para mim um código que imprima a frase "Hello World" na linguagem de programação Crie para mim um código que imprima a frase "Hello World" na linguagem de programação _______"
 Pesquise Frameworks de Python e JavScript
-Comunidade PyLadies,
+Comunidade [PyLadies](https://www.instagram.com/pyladiesbrasil/),
 Na IA Colocar: "Analise para mim o mercado e salario para pessoas desenvodoras na linguagem Python".
 Sempre entrar no GlassDoor para olhar se a empresa é boa. 
 Pesquisa em IA: "Analise para mim o mercado e salario para pessoas desenvodoras na linguagem Python".
