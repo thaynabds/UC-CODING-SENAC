@@ -21,3 +21,4 @@ Fazer está linha do tempo foi um processo muito enriquecedor, onde aprendemos e
 2. Linguagem de montagem: é uma linguagem que é mais fácil de entender do que a linguagem de máquina. Ela usa mnemônicos, que são palavras ou abreviações para as instruções de hardware.
 
 Coloquei em uma IA (Usei DeepSeek) "Crie para mim um código que imprima a frase "Hello World" na linguagem de programação Crie para mim um código que imprima a frase "Hello World" na linguagem de programação _______"
+Pesquise Frameworks de Python e JavScript
