@@ -19,3 +19,5 @@ Fazer está linha do tempo foi um processo muito enriquecedor, onde aprendemos e
 - Linguagens de Baixo Nível: São as linguagens de máquina, As linguagens de baixo nível são as mais próximas do hardware do computador. Ex.:Assembly; COBOL; Pascal;
 1. Linguagem de máquina: é a linguagem mais básica que um computador pode entender. Ela é composta por sequências de números binários que representam instruções de hardware.
 2. Linguagem de montagem: é uma linguagem que é mais fácil de entender do que a linguagem de máquina. Ela usa mnemônicos, que são palavras ou abreviações para as instruções de hardware.
+
+Coloquei em uma IA (Usei DeepSeek) "Crie para mim um código que imprima a frase "Hello World" na linguagem de programação Crie para mim um código que imprima a frase "Hello World" na linguagem de programação _______"
