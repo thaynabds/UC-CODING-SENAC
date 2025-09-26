@@ -29,3 +29,26 @@ Pesquisa em IA: "Analise para mim o mercado e salario para pessoas desenvodoras 
 Explique para mim a diferença de back-end e Front-end e use exemplos linguagens de programação
 
 Pesquisa em IA: "Explique para mim a diferença de back-end e Front-end e use exemplos linguagens de programação".
+
+##GoogleColab
+https://colab.research.google.com/drive/1_5tU2ECjbIzJx4mqWx76t796PMxlCHLl?authuser=0#scrollTo=2tUzWt-II_td
+
+nome = "Thayná "
+segundo_nome = "Batista da Silva"
+# Anotação: Vamos aprender a concatenar string
+print(f"Olá, {nome} {segundo_nome}. Seja bem vinda ao lar da insanidade, não se preocupe, logo vc será um de nós.")
+
+primeiro_nome = input("Qual é seu primeiro nome? ")
+segundo_nome = input("Qual é seu segundo nome? ")
+print(f"Olá, {primeiro_nome} {segundo_nome}. Seja bem vinda ao lar da insanidade, não se preocupe, logo vc será um de nós.")
+
+#vamos trabalhar com numbers(numeros)
+estudante = "Lika"
+nota1 = 10
+nota2 = 8.5
+nota3 = 7
+media = (nota1 + nota2 + nota3) / 3
+mediaArr = round(media,2)
+
+print(f"Olá, {estudante}! Sua média é . . . {media} Sua 1ª nota é {nota1}, Sua 2ª nota é {nota2}, Sua 3ª nota é {nota3}")
+print(round(media,2))
