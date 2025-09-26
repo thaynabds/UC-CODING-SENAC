@@ -52,3 +52,5 @@ mediaArr = round(media,2)
 
 print(f"Olá, {estudante}! Sua média é . . . {media} Sua 1ª nota é {nota1}, Sua 2ª nota é {nota2}, Sua 3ª nota é {nota3}")
 print(round(media,2))
+
+
