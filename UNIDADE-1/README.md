@@ -53,4 +53,20 @@ mediaArr = round(media,2)
 print(f"Olá, {estudante}! Sua média é . . . {media} Sua 1ª nota é {nota1}, Sua 2ª nota é {nota2}, Sua 3ª nota é {nota3}")
 print(round(media,2))
 
+https://josafa.com.br/blog/23-metodos-de-string-em-python
 
+#Venda de Zenrelia e Predivet usando input, print, capitalize e Upper.
+produtoz4 = "ZENRELIA 4.8mg"
+produtoz6 = "ZENRELIA 6.4mg"
+produtoz8 = "ZENRELIA 8.5mg"
+produtoz15 = "ZENRELIA 15mg"
+produtop2 = "PREDIVET 2mg"
+produtop5 = "PREDIVET 5mg"
+
+print(produtop5.capitalize())
+
+print(f"OLÁ TEMOS AS SEGUINTES MEDICAÇÕES: {produtoz4.capitalize()} ou {produtoz6.capitalize()} ou {produtoz8.capitalize()} ou {produtoz15.capitalize()}?")
+produto_desejado1 = input("Qual é produto que voce deseja? ")
+print(f"Olá temos as seguintes medicações: {produtop2.upper()} ou {produtop5.upper()} ?")
+produto_desejado2 = input("Qual é produto que voce deseja? ")
+print(f"Obrigada pela sua compra")
